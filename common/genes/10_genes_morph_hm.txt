@@ -1,0 +1,23 @@
+﻿morph_genes = {
+	hm_portrait = {
+		hm_no_portrait = {
+			index = 5
+			male = {
+				setting = { attribute = "bs_no_portrait"	value = { min = 1.0 max = 1.0 }	} 
+				setting = { attribute = "bs_body_no_portrait"	value = { min = 1.0 max = 1.0 }	}
+			}
+			female = {
+				setting = { attribute = "bs_no_portrait"	value = { min = 1.0 max = 1.0 }	} 
+				setting = { attribute = "bs_body_no_portrait"	value = { min = 1.0 max = 1.0 }	}
+			}
+			boy = {
+				setting = { attribute = "bs_no_portrait"	value = { min = 1.0 max = 1.0 }	} 
+				setting = { attribute = "bs_body_no_portrait"	value = { min = 1.0 max = 1.0 }	}
+			}
+			girl = {
+				setting = { attribute = "bs_no_portrait"	value = { min = 1.0 max = 1.0 }	} 
+				setting = { attribute = "bs_body_no_portrait"	value = { min = 1.0 max = 1.0 }	}
+			}
+		}
+	}
+}

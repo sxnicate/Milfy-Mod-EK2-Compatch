@@ -1,0 +1,248 @@
+﻿special_genes = {
+	accessory_genes = {
+		horse_portraits_group = {
+			horse_portrait_1 = {
+				index = 1
+				male = { 1 = horse_portrait_male_1 }
+				female = { 1 = horse_portrait_female_1 }
+				boy = male
+				girl = female
+			}
+			horse_portrait_2 = {
+				index = 2
+				male = { 1 = horse_portrait_male_2 }
+				female = { 1 = horse_portrait_female_5 }
+				boy = male
+				girl = female
+			}
+			horse_portrait_3 = {
+				index = 3
+				male = { 1 = horse_portrait_male_3 }
+				female = { 1 = horse_portrait_female_6 }
+				boy = male
+				girl = female
+			}
+			horse_portrait_4 = {
+				index = 4
+				male = { 1 = horse_portrait_male_4 }
+				female = { 1 = horse_portrait_female_7 }
+				boy = male
+				girl = female
+			}
+			horse_portrait_5 = {
+				index = 5
+				male = { 1 = horse_portrait_male_5 }
+				female = { 1 = horse_portrait_female_8 }
+				boy = male
+				girl = female
+			}
+			horse_portrait_6 = {
+				index = 6
+				male = { 1 = horse_portrait_male_6 }
+				female = { 1 = horse_portrait_female_9 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_7 = {
+				index = 7
+				male = { 1 = horse_portrait_male_7 }
+				female = { 1 = horse_portrait_female_2 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_8 = {
+				index = 8
+				male = { 1 = horse_portrait_male_8 }
+				female = { 1 = horse_portrait_female_10 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_9 = {
+				index = 9
+				male = { 1 = horse_portrait_male_9 }
+				female = { 1 = horse_portrait_female_11 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_10 = {
+				index = 10
+				male = { 1 = horse_portrait_male_10 }
+				female = { 1 = horse_portrait_female_2 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_11 = {
+				index = 11
+				male = { 1 = horse_portrait_male_11 }
+				female = { 1 = horse_portrait_female_2 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_12 = {
+				index = 12
+				male = { 1 = horse_portrait_male_12 }
+				female = { 1 = horse_portrait_female_2 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_13 = {
+				index = 13
+				male = { 1 = horse_portrait_male_13 }
+				female = { 1 = horse_portrait_female_2 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_14 = {
+				index = 14
+				male = { 1 = horse_portrait_male_14 }
+				female = { 1 = horse_portrait_female_2 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_15 = {
+				index = 15
+				male = { 1 = horse_portrait_male_15 }
+				female = { 1 = horse_portrait_female_3 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_16 = {
+				index = 16
+				male = { 1 = horse_portrait_male_16 }
+				female = { 1 = horse_portrait_female_12 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_17 = {
+				index = 17
+				male = { 1 = horse_portrait_male_17 }
+				female = { 1 = horse_portrait_female_13 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_18 = {
+				index = 18
+				male = { 1 = horse_portrait_male_18 }
+				female = { 1 = horse_portrait_female_14 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_19 = {
+				index = 19
+				male = { 1 = horse_portrait_male_19 }
+				female = { 1 = horse_portrait_female_3 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_20 = {
+				index = 20
+				male = { 1 = horse_portrait_male_20 }
+				female = { 1 = horse_portrait_female_3 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_21 = {
+				index = 21
+				male = { 1 = horse_portrait_male_21 }
+				female = { 1 = horse_portrait_female_3 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_22 = {
+				index = 22
+				male = { 1 = horse_portrait_male_22 }
+				female = { 1 = horse_portrait_female_3 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_23 = {
+				index = 23
+				male = { 1 = horse_portrait_male_23 }
+				female = { 1 = horse_portrait_female_3 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_24 = {
+				index = 24
+				male = { 1 = horse_portrait_male_24 }
+				female = { 1 = horse_portrait_female_4 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_25 = {
+				index = 25
+				male = { 1 = horse_portrait_male_25 }
+				female = { 1 = horse_portrait_female_4 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_26 = {
+				index = 26
+				male = { 1 = horse_portrait_male_26 }
+				female = { 1 = horse_portrait_female_4 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_27 = {
+				index = 27
+				male = { 1 = horse_portrait_male_27 }
+				female = { 1 = horse_portrait_female_15 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_28 = {
+				index = 28
+				male = { 1 = horse_portrait_male_28 }
+				female = { 1 = horse_portrait_female_4 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_29 = {
+				index = 29
+				male = { 1 = horse_portrait_male_29 }
+				female = { 1 = horse_portrait_female_4 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_30 = {
+				index = 30
+				male = { 1 = horse_portrait_male_30 }
+				female = { 1 = horse_portrait_female_4 }
+				boy = male
+				girl = female
+			}
+			
+			horse_portrait_31 = {
+				index = 31
+				male = { 1 = horse_portrait_male_31 }
+				female = { 1 = horse_portrait_female_4 }
+				boy = male
+				girl = female
+			}
+		}
+	}
+}
