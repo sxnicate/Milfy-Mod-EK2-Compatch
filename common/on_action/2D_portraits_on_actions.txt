@@ -1,0 +1,25 @@
+﻿#on_game_start_after_lobby = {
+#	on_actions = {
+#		2D_portrait_assign_on_action
+#	}
+#}
+
+## This is useless unless you plan on adding custom cultures/faiths specific ONLY to the 2d portraits.
+# 
+# 2D_portrait_assign_on_action = {
+# 	effect = {
+# 		every_living_character = {
+# 			if ={
+# 				limit = {
+# 					OR = {
+# 						culture = culture:knossian
+# 						faith = faith:eknlisianism
+# 						has_trait = horse_race
+# 					}
+# 				}
+# 
+# 				add_trait = horse_race
+# 		    }
+# 	    }
+#   }
+#}
